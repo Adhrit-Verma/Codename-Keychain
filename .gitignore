@@ -1,1 +1,17 @@
- .history
+ .history/
+# Python
+*.pyc
+__pycache__/
+*.pkl
+*.h5
+
+# C++
+*.o
+*.out
+*.exe
+
+# General
+.vscode/
+*.log
+node_modules/
+.env
